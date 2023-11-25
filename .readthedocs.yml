@@ -49,3 +49,6 @@ search:
     changelog.html: -6
   ignore:
     - dmca/archive/*
+
+formats:
+  - pdf
